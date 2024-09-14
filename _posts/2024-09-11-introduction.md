@@ -1,3 +1,12 @@
+---
+title: "Basics of Commonly Used Data Structures and Algorithms"
+date: 2024-09-14 # Adjust the date to when you want the post to be published
+categories: [Data Structures, Algorithms]
+tags: [arrays, linked lists, stacks, queues, hash tables, trees, graphs, sorting, searching]
+toc: true
+---
+
+
 # Basics of Commonly Used Data Structures and Algorithms
 
 ## 1. Arrays
